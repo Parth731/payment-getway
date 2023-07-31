@@ -44,7 +44,7 @@ const Footer = () => (
     </div>
     <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-cyan-900">
       <p className="font-poppins font-medium text-[18px] leading-[27px] text-white text-center">
-        2022 Noor_Mohammad. All Rights Reserved.
+        2022 Parth_Dangroshiya. All Rights Reserved.
       </p>
 
       <div className="flex flex-row mt-6 md:mt-3">
